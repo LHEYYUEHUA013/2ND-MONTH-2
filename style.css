@@ -2,8 +2,8 @@ body {
 background:linear-gradient(hsl(270, 65%, 62%), #ff85de);
 background-repeat: no-repeat;
 background-attachment: fixed;
-margin-left: 200px;
-margin-right: 200px;
+margin-left: 15%;
+margin-right: 15%;
 }
 
 h1{
