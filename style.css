@@ -64,3 +64,51 @@ h2{
     margin-right: auto;
     text-align: center;
 }
+.div2{
+    position: absolute
+    
+}
+.div3{
+    position: absolute ;
+    margin-left: 15%;
+    
+}
+.div4{
+    margin-left: 42%;
+}
+.div5{
+    position:absolute
+}
+.div6{
+    margin-left: 23%
+}
+
+.button2{
+    background-color: purple;
+    padding: 10px 30px;
+    border:none;
+    color:#ff85de;
+    font-family: "baskervville SC";
+    font-size:large;
+    cursor: pointer;
+    border-radius: 10px;  }
+
+.button2{
+    background-color: purple;
+    padding: 10px 30px;
+    border:none;
+    color:#ff85de;
+    font-family: "baskervville SC";
+    font-size:large;
+    cursor: pointer;
+    border-radius: 10px;    
+}
+.button2:hover{
+ color: blueviolet;
+ background-color: #ff85de;
+ transition:0.2s;
+}
+.button2:active{
+ background-color:blueviolet;
+ color:palevioletred;
+}
